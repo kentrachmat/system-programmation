@@ -1,0 +1,13 @@
+*~
+*.o
+*.a
+.idea
+multif
+course
+observe
+args
+core
+/tri-rapide
+*.o
+core
+/tri-rapide
